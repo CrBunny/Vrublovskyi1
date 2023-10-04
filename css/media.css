@@ -1,0 +1,45 @@
+@media screen and (max-width:64em)  {
+   li
+   { width:8.125rem;
+    height: 2rem;
+   }
+   ul{
+    margin: 1.5rem 5.7rem 1.5rem 0;
+   }
+   strong{
+    font-size: 1.9rem;
+   }
+   .title,.title-header{
+    width: 54rem;
+    height: 18rem;
+   }
+   .title-header{
+    margin: 3.125rem 0 0 5.7rem;
+   }
+.photo-card{
+    width: 12rem;
+    height: 17.25rem;}
+.txt{
+    margin-left:2rem;
+    width: 32.58225rem;
+    height: 16.5rem;
+    font-size: 1rem;
+    line-height: 1.8rem;
+}
+.slider-container {
+    margin: 3.125rem 1.7rem 0 1.7rem;
+    width: 56rem;
+    height:18rem;
+}
+.slider-track {
+    margin-left: 4.375rem;
+    height:18rem;
+}
+.arrow-right{
+    right: 30px;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    margin: 3.3rem 5.7rem 0 5.7rem;}
+}
